@@ -1,8 +1,9 @@
 Project Report: Digital Literacy Awareness
 ---
----
+
 Role: Student Digital Ambassador
 ---
+
 Design Report
 ---
 For this task, I used Canva to design a high-impact, single-page infographic titled "Navigating the Digital Frontier." I chose a "Cyber-Tech" aesthetic with a deep purple and neon yellow color palette to specifically appeal to my fellow engineering batchmates at VIT Bhopal. This visual style reflects the modern, fast-paced nature of the digital world we navigate daily.
