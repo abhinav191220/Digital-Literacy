@@ -14,6 +14,6 @@ A comprehensive guide for responsible social media use as a college student.
 - [View Social Media Checklist (.md)](./social-media-checklist.md)
 
 ## Part C: Project Report - Case Study
-**Situation:** One common situation where poor digital communication causes significant problems is the "Reply All" mistake in a professional setting. If a student hits "Reply All" to a university-wide announcement for a private query, it causes inbox clutter for thousands. 
+**Situation:** One common situation where poor digital communication causes significant problems is the "Reply All" mistake in a professional setting. If a student hits "Reply All" to a university-wide announcement for a private query , it causes inbox clutter for thousands. 
 
 **Solution:** Students should always verify the recipient list before clicking send. Practicing "pause before you post" is essential for maintaining a professional digital reputation.
