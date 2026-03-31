@@ -13,4 +13,4 @@ The design is structured into three clear modules: a definition of Digital Liter
 The most interesting part of this process was the "minimalism challenge." I found it difficult to condense complex topics—like cybersecurity—into three short, actionable bullet points. This exercise forced me to prioritize clarity over jargon, reinforcing that as a Digital Ambassador, my job is to make technology feel accessible. Balancing the large numerical anchors with the technical text taught me the importance of visual hierarchy in digital communication.
 
 ---
-Submitted by: LAKSHYA Sharma Date: March 29, 2026
+Submitted by: Abhinav Singh    Date: March 31, 2026
